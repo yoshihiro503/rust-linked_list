@@ -1,4 +1,4 @@
-# my_linked_list
+# Immutable Linked List
 
 A simple **immutable linked list** implemented in pure Rust.  
 Inspired by functional languages like OCaml and Haskell.

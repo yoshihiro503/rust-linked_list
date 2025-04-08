@@ -1,6 +1,10 @@
 [package]
-name = "rust-linked_list"
+name = "linked_list"
 version = "0.1.0"
 edition = "2024"
+description = "A simple immutable linked list"
+license = "MIT"
+authors = ["Yoshihiro Imai"]
+repository = "https://github.com/yoshihiro503/rust-linked_list"
 
 [dependencies]
